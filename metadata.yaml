@@ -1,0 +1,41 @@
+_repo: Menneiden-vuosisatain-vaiheita_53921
+_version: 0.0.1
+alternative_title: Svenska öden och äventyr. Finnish
+contributor:
+  translator:
+    agent_name: Ivalo, Santeri
+    aliases:
+    - Ivalo, Herman Aleksander
+    - Ingman, Santeri
+    birthdate: 1866
+    deathdate: 1937
+    gutenberg_agent_id: '31820'
+    url: http://www.gutenberg.org/2009/agents/31820
+    wikipedia: http://fi.wikipedia.org/wiki/Santeri_Ivalo
+creator:
+  author:
+    agent_name: Strindberg, August
+    alias: Strindberg, Johan August
+    birthdate: 1849
+    deathdate: 1912
+    gutenberg_agent_id: '1609'
+    url: http://www.gutenberg.org/2009/agents/1609
+    wikipedia: http://en.wikipedia.org/wiki/August_Strindberg
+description: ''
+gutenberg_issued: '2017-01-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53921'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories, Swedish -- Translations into Finnish'
+- !lcsh 'Swedish fiction -- Translations into Finnish'
+- !lcc 'PT'
+- GITenberg
+tableOfContents: Sananen suomalaiselle lukijalle -- Viljelty hedelmä -- Ylevämpiä
+  tarkoituksia -- Hyvän ja pahan tiedon puu -- Paavo ja Pekka.
+title: Menneiden vuosisatain vaiheita
+url: http://www.gutenberg.org/ebooks/53921
